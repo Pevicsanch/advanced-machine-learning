@@ -1,7 +1,7 @@
 # advanced-machine-learning
 ## IT Academy - Data Science Itinerary: Advanced machine learning.
 
-*S12 - T01 : Advanced machine learning: pipelines, gridsearch and textmining *
+*S12 - T01 : Advanced machine learning: pipelines, gridsearch and textmining*
 
 
 Performance a Pipelines, gridsearch and text mining. Let's start with several basic exercises.
